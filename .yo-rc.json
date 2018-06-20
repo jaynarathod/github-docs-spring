@@ -1,0 +1,10 @@
+{
+  "generator-openapi-repo": {
+    "importExistingSpec": false,
+    "name": "GH Pages",
+    "repo": "jaynarathod/github-docs-spring",
+    "splitSpec": false,
+    "samples": true,
+    "installSwaggerUI": true
+  }
+}
