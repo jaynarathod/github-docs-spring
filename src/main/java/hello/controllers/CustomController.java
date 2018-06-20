@@ -5,8 +5,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
 /**
- * Created by jratho003c on 6/20/18.
- * CSP
+ * Created by Jayna on 6/20/18.
  */
 @RestController
 public class CustomController {

@@ -13,8 +13,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 import java.util.Collections;
 
 /**
- * Created by jratho003c on 6/20/18.
- * CSP
+ * Created by Jayna on 6/20/18.
  */
 
 @Configuration
